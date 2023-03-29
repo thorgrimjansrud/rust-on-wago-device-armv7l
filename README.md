@@ -70,10 +70,20 @@ Tryied option 1
 error: component download failed for rustc-armv7-unknown-linux-gnueabihf: could not download file from 'https://static.rust-lang.org/dist/2023-03-28/rustc-1.68.2-armv7-unknown-linux-gnueabihf.tar.xz' to '/root/.rustup/downloads/f4d11a7aaa83aeb52c1fe95393939c049385de5956282f1732031961e2806927.partial'
 root@EC752-492524:/home/admin/rust  
 
+NO SPACE LEFT ??  
+Cleaning up.. 659MB space left..try again..  
+Failed again same........   
+ 
+ </br>  </br> 
 
 Manually install tarball:
 
  </br>  </br> 
+ 
+ Problem.. no space left.. tarball is 334MB...   
+ Must try to boot from SD card to get more mem..  
+  
+ 
  
  
 
