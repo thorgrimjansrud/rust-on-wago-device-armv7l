@@ -77,12 +77,13 @@ Failed again same........
  </br>  </br> 
 
 Manually install tarball:
+https://static.rust-lang.org/dist/rust-1.68.2-armv7-unknown-linux-gnueabihf.tar.gz
 
  </br>  </br> 
  
  Problem.. no space left.. tarball is 334MB...   
  Must try to boot from SD card to get more mem..  
-  
+ 
  
  
  
